@@ -1,4 +1,4 @@
 git add ./
-git commit -m "no desc"
+git commit -m "Auto push"
 git push
-git push github
+git push gitee
